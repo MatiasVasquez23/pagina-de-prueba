@@ -1,0 +1,1 @@
+console.log('La página de prueba está funcionando correctamente.');
